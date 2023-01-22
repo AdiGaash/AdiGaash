@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdiGaash
-- 👀 I’m interested in gaming (but not gambling), Unity3D, AI, AR
+- 👀 I’m interested in gaming (but not gambling), Unity3D, AI, AR and VR
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on whatever cutting-edge development of the above
 - 📫 How to reach me adigaash@gmail.com
